@@ -1,0 +1,8 @@
+{
+  "name": "webdev_wk3",
+  "author": "Justin Huang <justinh7@illinois.edu>",
+  "scripts" : {
+    "start": "node index.js"
+  },
+  "license": "MIT"
+}
